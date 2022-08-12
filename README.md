@@ -1,6 +1,6 @@
 # HOUSING PREDICTION IN INDIA
 About the Project 
-In this project, you'll work with a dataset with 14,621 properties for sale in India through the data set on real estate from kaggle.com. We transition from descriptive to predictive data science. My focus is still real estate, but then i need to create a machine learning model that predicts apartment prices in India using the dataset.
+In this project, I worked with a dataset with 14,621 properties for sale in India through the data set on real estate from kaggle.com. We transition from descriptive to predictive data science. My focus is still real estate, but then i need to create a machine learning model that predicts apartment prices in India using the dataset.
 My goal is to determine whether sale prices are influenced more by property size or location.
 
 Some of the things i did in this project are:
